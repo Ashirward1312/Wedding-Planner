@@ -1,0 +1,15 @@
+/* ✅ Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap');
+
+/* ✅ Tailwind */
+@import "tailwindcss";
+
+/* ✅ Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ✅ Base body styling */
+body {
+  font-family: 'Playfair Display', serif;
+}
